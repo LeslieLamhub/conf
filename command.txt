@@ -1,4 +1,0 @@
-#操作命令合集
-
-#1.rabbitmq查询队列数
-rabbitmqctl list_queues -p /prd  name messages_ready |grep 队列名
